@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_order_by_labels">
+        <item>Relevance</item>
+        <item>Newest</item>
+    </string-array>
+    <string-array name="settings_order_by_values">
+        <item>relevance</item>
+        <item>newest</item>
+    </string-array>
+
+    <string-array name="settings_available_labels">
+        <item>All</item>
+        <item>Free</item>
+        <item>Paid</item>
+    </string-array>
+    <string-array name="settings_available_values">
+        <item>ebooks</item>
+        <item>free-ebooks</item>
+        <item>paid-ebooks</item>
+    </string-array>
+</resources>

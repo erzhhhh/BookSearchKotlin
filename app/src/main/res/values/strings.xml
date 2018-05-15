@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Google Books Assistant</string>
+    <string name="near_the">Near the</string>
+    <string name="no_books">No books found.</string>
+    <string name="no_internet_connection">No internet connection.</string>
+    <string name="bookthumbnail">bookThumbnail</string>
+    <string name="search">Search</string>
+    <string name="settings_menu_item">Settings</string>
+    <string name="settings_title">Google Book Settings</string>
+<!--Order by values-->
+    <string name="settings_order_by_label">Order By</string>
+    <string name="settings_order_by_key" translatable="false">order_by</string>
+    <string name="settings_order_by_default" translatable="false">relevance</string>
+<!--Available values-->
+    <string name="settings_available_label">Filter</string>
+    <string name="settings_available_key" translatable="false">filter</string>
+    <string name="settings_available_default" translatable="false">ebooks</string>
+</resources>
