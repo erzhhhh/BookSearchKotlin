@@ -13,7 +13,6 @@ import retrofit2.converter.gson.GsonConverterFactory
 class GoogleApi {
 
     val service: GoogleBookDef
-//    val peopleCache = mutableMapOf<String, Person>()
 
     init {
         val logging = HttpLoggingInterceptor()
